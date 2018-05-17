@@ -1,0 +1,22 @@
+#ulBRE {
+    list-style-type: none;
+    display: block;
+}
+
+#ulBRE li {
+    display: inline-block;
+    float: left;
+}
+
+li {
+    padding: 5px;
+}
+
+.subMenu {
+    display: block;
+}
+
+.secondNavList {
+    float: right;
+    list-style-type: none;
+}

@@ -1,0 +1,14 @@
+.headerLinkUL li{
+    display: inline-block;
+    float: left;
+    padding: 5px;
+}
+
+.headerLinkUL {
+    
+    list-style-type: none;
+}
+
+.mainContainer {
+    padding: 20px;
+}
